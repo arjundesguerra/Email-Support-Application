@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f6bba845-2568-464d-ab50-5bf0ad5ba7c7" name="Changes" comment="" />
+    <list default="true" id="df364150-e193-4151-93cb-e4de8fdd2039" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="2JxtmI1WrfXchTCdpmP9d3pi2VA" />
+  <component name="ProjectId" id="2Jxuv8WKgHOrMlzjQjQSuGbRLDn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -19,19 +20,18 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/arjunscomputer/Documents/Projects/Email-Support-Application"
+    "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f6bba845-2568-464d-ab50-5bf0ad5ba7c7" name="Changes" comment="" />
-      <created>1673031718752</created>
+      <changelist id="df364150-e193-4151-93cb-e4de8fdd2039" name="Changes" comment="" />
+      <created>1673032283776</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1673031718752</updated>
-      <workItem from="1673031720338" duration="1091000" />
+      <updated>1673032283776</updated>
+      <workItem from="1673032285230" duration="565000" />
     </task>
     <servers />
   </component>
